@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -18,8 +18,12 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon h1 {
-  font-family: Gravitas One, cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .watermelon {
@@ -27,7 +31,7 @@ html {
 }
 
 .starfruit h1 {
-  font-family: Rammetto One, cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .starfruit {
